@@ -3,3 +3,5 @@
 
 
 Mathician.js is a JavaScript version of [Mathician](https://github.com/ArjunSharda/Mathician).
+
+Mathician.js has a lot of examples provided which you can check out in the [examples folder](https://github.com/ArjunSharda/Mathician.js/tree/main/examples).
